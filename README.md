@@ -2,16 +2,27 @@
 
 Multiplayer Survival Sandbox focuses on engineering-based building, strategic PvP, and deep-world exploration. Like scrap mechanic and rust had a baby.
 
-🧱 Genre
+
+
+
+# 🧱 Genre
 
  Multiplayer Survival Sandbox
  
  Focus on engineering-based building, strategic PvP, and deep-world exploration.
+
+
+
+
  
-🌍 Setting & Theme
+# 🌍 Setting & Theme
 
 You are a stranded engineer in a ravaged industrial world, now overrun by hostile AI and rival survivors. The surface is dangerous, the underground is untapped—and your creativity is your greatest weapon.
-🔧 Core Gameplay Pillars
+
+
+
+# 🔧 Core Gameplay Pillars
+
 1. 🛠️ Engineering + Building
 
     Build fully customized vehicles and base automation systems.
@@ -57,7 +68,7 @@ You are a stranded engineer in a ravaged industrial world, now overrun by hostil
 
 
 
-🌀 Drill Machines
+# 🌀 Underground Machines
 
 🌌 Underground Layer
 
@@ -100,7 +111,7 @@ You are a stranded engineer in a ravaged industrial world, now overrun by hostil
 
 
 
-Parts list:
+# Parts list:
 ⚙️ Power & Motion Components
 
  gas-engine – Runs on gasoline for mechanical power (steering, pistons)
@@ -198,7 +209,7 @@ All parts have tiers enabling lower power/fuel costs and higher output of damage
 All parts have a weight, buoyancy, and durability value.
 
 
-Blocks list:
+# Blocks list:
 
 Very heavy blocks:
 
