@@ -232,15 +232,25 @@ Values are measured on a -10 - 10 scale
 -10 is very heavy, poor durability, poor buoyancy
 10 is very lightweight, has great durability, grate buoyancy
 each value is to be viewed like 
+
 Waight:
 -10:(=0==================):10
      -9
+
+
+     
 Durability:
 -10:(================0===):10
                      6
+
+
+                     
 buoyancy:
 -10:(===========0========):10
                 1
-🎮 In Summary
+
+
+                
+# 🎮 In Summary
 
 Fusing the creative engineering of Scrap Mechanic, the gritty survival and raiding of Rust, and the deep exploration and digging mechanics of Astroneer. Whether you're building a battle mech, tunneling under a fortress, or wiring up a fully automated AI farm, the world is yours to shape—or destroy
