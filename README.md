@@ -1,3 +1,14 @@
+# 👋 Welcome to the Open Source Survival Sandbox!
+
+This project is an open source multiplayer survival sandbox game, a creative blend of Scrap Mechanic, Rust, and Astroneer. Build, battle, dig, automate, and explore in a fully destructible world that rewards engineering and creativity.
+
+💡 I'm not an expert game developer, but I am passionate and can create textures and visual assets. By making this project open source, I'm inviting developers, artists, and dreamers to collaborate on something ambitious and unique.
+
+Let’s build this game together, piece by piece, part by part.
+#
+#
+#
+#
 # Multiplayer-sandbox-game
 
 Multiplayer Survival Sandbox focuses on engineering-based building, strategic PvP, and deep-world exploration. Like scrap mechanic and rust had a baby.
