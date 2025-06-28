@@ -7,6 +7,10 @@ This project is an open source multiplayer survival sandbox game, a creative ble
 Let’s build this game together, piece by piece, part by part.
 #
 #
+Insporation:
+scrap mechanic: https://www.youtube.com/watch?v=NF02KyJoXj0
+
+rust: https://www.youtube.com/watch?v=LGcECozNXEw
 #
 #
 # Multiplayer-sandbox-game
